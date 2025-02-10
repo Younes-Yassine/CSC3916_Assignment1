@@ -9,7 +9,7 @@ The Echo Server is live and deployed using **Render**:
 
 ## Postman Collection
 
-Note: Environment Variables needed: 
+**Note** Environment Variables needed: 
 - `echo_body`: `"Test Message"`
   
 Click the button below to import the Postman collection:
