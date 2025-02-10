@@ -14,7 +14,6 @@ Click the button below to import the Postman collection:
 
 ## Files Included
 - **server.js**: Node.js Express server that handles the `/echo` route.
-- **readme.md**: Project documentation, including API usage and setup instructions.
 
 ## Setup Instructions
 ### **1. Clone this repository**
